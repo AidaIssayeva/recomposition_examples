@@ -16,7 +16,9 @@ import com.cupsofcode.recomposition_examples.ui.theme.*
 import kotlinx.coroutines.delay
 
 /**
- * tip #2. Set a key in lazy layout items.
+ * tip #2. Use the key composable*
+ *
+ *  *Lazy layout have a built-in support for the key composable via items DSL.
  *
  * Runtime assigns a type(restartable, replaceable, movable) to every group in composition.
  * When the key is not set, runtime can't determine whether item in the list was changed
