@@ -1,7 +1,7 @@
 ### ⚡ Recomposition in Jetpack Compose
 List of practical tips and code snippets to avoid unnessary recomposition in Jetpack Compose. 
 
-This is an active repo, please [contribute](#-📌-Contribution) if you discovered useful tips related to recomposition.
+This is an active repo, please [contribute](#-contribution) if you discovered useful tips related to recomposition.
 
 The first 5 tips were part of the talk "What does Recomposition mean to your app" by [me](https://cupsofcode.com/about/):
 
@@ -39,7 +39,7 @@ Here are some contrbution **steps** to follow:
 4. Create a separate .kt file;
 5. Create a composable function, that starts with `TipX()`, where `X` = the last avaialble number in the tip list + 1;
 6. Write your tip;
-7. Modify the README doc and include your tip to the [list](/ListOfTips);
+7. Modify the README doc and include your tip to the [list](#-list-of-tips);
 8. Push your tip and open the PR [here](https://github.com/AidaIssayeva/recomposition_examples/pulls).
 
 Thank you so much for contributing and helping others to learn 💚💚💚
