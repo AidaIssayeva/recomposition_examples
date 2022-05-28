@@ -1,5 +1,5 @@
 ### ⚡ Recomposition in Jetpack Compose
-List of practical tips and code snippets to avoid unnessary recomposition in Jetpack Compose. 
+List of practical tips and code snippets to avoid unnecessary recomposition in Jetpack Compose. 
 
 This is an active repo, please [contribute](#-contribution) if you discovered useful tips related to recomposition.
 
@@ -27,17 +27,17 @@ to be continued...
 Contributions are more than welcome! 
 The more we learn **together** Jetpack Compose, the faster we'll climb that learning curve 💪.
 
-Here are some contrbution **rules** to follow:
+Here are some contribution **rules** to follow:
 1. Give the good and bad examples of the same output (see: each Tip file contains `GoodGreetings()` and `BadGreetings()` composable functions);
 2. Add the recompose [highlighter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecomposeHighlighter.kt) & [counter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecompositionCounter.kt) to ***every*** composable function via Modifier;
 3. Add comments in the beginning of the file to give the overview of the tip, then in subsequent good and bad sections.
 
-Here are some contrbution **steps** to follow:
+Here are some contribution **steps** to follow:
 1. Clone this repository;
 2. Branch out via `git branch -b someBranchName`;
-3. Open Android Studio (or any IDE you feel comportable working with);
+3. Open Android Studio (or any IDE you feel comfortable working with);
 4. Create a separate .kt file;
-5. Create a composable function, that starts with `TipX()`, where `X` = the last avaialble number in the tip list + 1;
+5. Create a composable function, that starts with `TipX()`, where `X` = the last available number in the tip list + 1;
 6. Write your tip;
 7. Modify the README doc and include your tip to the [list](#-list-of-tips);
 8. Push your tip and open the PR [here](https://github.com/AidaIssayeva/recomposition_examples/pulls).
