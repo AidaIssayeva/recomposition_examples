@@ -3,13 +3,11 @@ package com.cupsofcode.recomposition_examples
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.cupsofcode.recomposition_examples.ui.theme.*
-import kotlinx.coroutines.delay
+import com.cupsofcode.recomposition_examples.ui.theme.Recomposition_examplesTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,7 +19,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Tip5()
+                    Tip1()
                 }
             }
         }
