@@ -18,7 +18,7 @@ import kotlinx.coroutines.delay
 /**
  * tip #2. Use the key composable*
  *
- *  *Lazy layout have a built-in support for the key composable via items DSL.
+ *  *Lazy layouts have a built-in support for the key composable via items DSL.
  *
  * Runtime assigns a type(restartable, replaceable, movable) to every group in composition.
  * When the key is not set, runtime can't determine whether item in the list was changed
