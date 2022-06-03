@@ -7,8 +7,8 @@ The first 5 tips were part of the talk "What does Recomposition mean to your app
 
 | Depth Level    | Conference | Slides |
 | ----------- | ----------- |----------- |
-| Light   | [Connect Recharge'22](https://hopin.com/events/connect-recharge-2022/registration?code=wwK1JKQKXBSzI6RaQZcehxqtr)| [Link](https://cupsofcode.com/talks/) |
-| Deep   | [Droidcon SF'22](https://www.sf.droidcon.com/speaker/aida-issayeva/what-does-recomposition-mean-to-your-app%3F)  | (not yet) |
+| Light   | [Connect Recharge'22](https://hopin.com/events/connect-recharge-2022/registration?code=wwK1JKQKXBSzI6RaQZcehxqtr)| [Link](https://docs.google.com/presentation/d/e/2PACX-1vRfsVk1LQ_2hexLTmGLmlPmdMtcWzjiHtnl41c_4aKQlC5c4BZUUrGMbG8LUWCBmqavuutT_31pHX6i/pub) |
+| Deep   | [Droidcon SF'22](https://www.sf.droidcon.com/speaker/aida-issayeva/what-does-recomposition-mean-to-your-app%3F)  | [Link](https://docs.google.com/presentation/d/e/2PACX-1vQs4J5e6X-zDfiynVUtVGkPl19NyzPD6qjiPY5xFGWIrWZ_mWI4ebuK6LfF54B7caM11DJ7K7utauTK/pub) |
 
 
 📣 Don't forget to star ⭐ or watch 👀 the repo to get updates!
@@ -17,8 +17,9 @@ The first 5 tips were part of the talk "What does Recomposition mean to your app
 
 1. [Break down](/app/src/main/java/com/cupsofcode/recomposition_examples/Tip1.kt) composable functions as much as possible;
 2. Use the [key composable](/app/src/main/java/com/cupsofcode/recomposition_examples/Tip2.kt);
-3. [Read the state value]((/app/src/main/java/com/cupsofcode/recomposition_examples/Tip3.kt)) at the lowest composable function;
-4. Use [Modifier lambdas]((/app/src/main/java/com/cupsofcode/recomposition_examples/Tip4.kt)) for every frequent changing state;
+3. [Read the state value](/app/src/main/java/com/cupsofcode/recomposition_examples/Tip3.kt) at the lowest composable function;
+4. Use [Modifier lambdas](/app/src/main/java/com/cupsofcode/recomposition_examples/Tip4.kt) for every frequent changing state read in Modifier functions;
+5. Use [`derivedStateOf()`](/app/src/main/java/com/cupsofcode/recomposition_examples/Tip5.kt) to buffer the rate of changes;
 
 to be continued...
 
