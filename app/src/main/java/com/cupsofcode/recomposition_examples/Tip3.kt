@@ -46,7 +46,7 @@ fun Tip3() {
         cardInfo.value = cardInfo.value.copy(secondaryText = "Jetpack Compose")
     })
 
-    GoodGreetingsTip3 { cardInfo.value }
+    GoodGreetingsTip3(cardInfo::value)
     // BadGreetingsTip3(cardInfo.value.secondaryText)
 }
 
