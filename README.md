@@ -3,7 +3,7 @@ List of practical tips and code snippets to avoid unnecessary recomposition in J
 
 This is an active repo, please [contribute](#-contribution) if you discovered useful tips related to recomposition.
 
-The first 5 tips were part of the talk "What does Recomposition mean to your app" by [me](https://cupsofcode.com/about/):
+The first 7 tips were part of the talk "What does Recomposition mean to your app" by [me](https://cupsofcode.com/about/):
 
 | Depth Level | Notes | Conference | Slides |
 | ----------- | ----------- | ----------- |----------- |
