@@ -33,7 +33,7 @@ The more we learn **together** Jetpack Compose, the faster we'll climb that lear
 
 Here are some contribution **rules** to follow:
 1. Give the good and bad examples of the same output (see: each Tip file contains `GoodGreetings()` and `BadGreetings()` composable functions);
-2. Add the recompose [highlighter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecomposeHighlighter.kt) & [counter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecompositionCounter.kt) to ***every*** composable function via Modifier;
+2. Add the recompose [highlighter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecomposeHighlighter.kt) & [counter](/app/src/main/java/com/cupsofcode/recomposition_examples/RecompositionCounter.kt) to ***every*** composable function via Modifier or enable [recomposition count](https://developer.android.com/jetpack/compose/tooling#recomposition-counts) in Android Studio Electric Eel's Layout Inspector;
 3. Add comments in the beginning of the file to give the overview of the tip, then in subsequent good and bad sections.
 
 Here are some contribution **steps** to follow:
