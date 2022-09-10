@@ -9,7 +9,8 @@ The first 7 tips were part of the talk "What does Recomposition mean to your app
 | ----------- | ----------- | ----------- |----------- |
 | Light   |  |[Connect Recharge'22](https://hopin.com/events/connect-recharge-2022/registration?code=wwK1JKQKXBSzI6RaQZcehxqtr)| [Link](https://docs.google.com/presentation/d/e/2PACX-1vRfsVk1LQ_2hexLTmGLmlPmdMtcWzjiHtnl41c_4aKQlC5c4BZUUrGMbG8LUWCBmqavuutT_31pHX6i/pub) |
 | Deep (v1) |   | [Droidcon SF'22](https://www.sf.droidcon.com/speaker/aida-issayeva/what-does-recomposition-mean-to-your-app%3F)  | [Link](https://docs.google.com/presentation/d/e/2PACX-1vQs4J5e6X-zDfiynVUtVGkPl19NyzPD6qjiPY5xFGWIrWZ_mWI4ebuK6LfF54B7caM11DJ7K7utauTK/pub) |
-| Deep (v2) | Includes tips 6 and 7  | [Droidcon NYC'22](https://nyc.droidcon.com/aida-issayeva/)  | [Link](https://speakerdeck.com/aida_isay/what-does-recomposition-mean-to-your-app) |
+| Deep (v2) | Better visuals  | [Chicago Roboto'22](https://chicagoroboto.com/session/what-does-recomposition-mean-to-your-app/)  | [Link](https://speakerdeck.com/aida_isay/chicago-roboto-what-does-recomposition-mean-to-your-app) |
+| Deep (v3) | Includes tips 6 and 7  | [Droidcon NYC'22](https://nyc.droidcon.com/aida-issayeva/)  | [Link](https://speakerdeck.com/aida_isay/what-does-recomposition-mean-to-your-app) |
 
 
 📣 Don't forget to star ⭐ or watch 👀 the repo to get updates!
